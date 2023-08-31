@@ -14,3 +14,6 @@ Consideramos que el mejor metodo es **Factory method** ya que el diseño permite
 - Parámetro: Hexagon
 
 ¿Cuál(es) de las anteriores instrucciones se ejecutan y funcionan correctamente y por qué?
+
+Solo funciona Hexagon ya que es la unica que coincide con el nombre de la clase y sin parametros ya que se ejecuta pero el main necesita un argumento para operar.
+
