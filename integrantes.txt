@@ -1,2 +1,2 @@
-sebastian camargo
+sebastian camargo 10% , ayudó solamente a la correción de la implementacion de patron de diseño fabrica.
 juan jose alvarez
